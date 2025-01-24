@@ -1,0 +1,6 @@
+fastparquet
+pyarrow
+matplotlib
+scipy
+tqdm
+tensorflow
